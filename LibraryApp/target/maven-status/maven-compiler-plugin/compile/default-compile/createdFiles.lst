@@ -1,0 +1,7 @@
+com\example\libraryapp\service\AuthorService.class
+com\example\libraryapp\service\BookService.class
+com\example\libraryapp\entity\Book.class
+com\example\libraryapp\web\AuthorBean.class
+com\example\libraryapp\entity\Author.class
+com\example\libraryapp\HelloServlet.class
+com\example\libraryapp\web\BookBean.class
